@@ -27,5 +27,6 @@ click reinstall driver
 It should new be ready to program.
 run Uploadfirmware.bat and it should open up a dos screen 
 identify the cpu and start programing.
-once programed unplug ecu and reconnect to TS, it will ask to update the ini file
-the new ini file is Speeduino.ini in this download directory.
+once programed unplug ecu and reconnect to TS, Start a new TS Project.
+Load the new ini file, Speeduino.ini in this download directory.
+When you get the the Project Settings select "Controller in use" as STM32 (Example is in New Project settings image).
