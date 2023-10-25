@@ -5,6 +5,8 @@ firmware.bin file is Speeduino202207.2.
 Only available for windows OS currently.
 Zadig-2.5.exe needs to be installed first
 
+The firmware.bin file can be programmed to the ECU using STM32Cube Programmer on other OS's.
+
 Plug the ecu into USB
 In Tunerstudio end tab "Hardware testing"
 STM32 Commands
